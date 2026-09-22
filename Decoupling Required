@@ -1,0 +1,9 @@
+Establishing decoupled code is nessisary when in an collaborative envirorment is because one 
+it prevents multiple people from working on the code if it all in one massive script.
+Two it will require more debuging time if the code is not decoupled since it in one massive script.
+The reason hacking things together is bad is because it make it way harder for you to integrate
+you teamate code since you and your teamate code isant modular alowing for easy integration of 
+everyone code. Another issue is that it can prevent teamates from working on the code at the 
+same time. Also if a specific part of the code breaks it can make it harder to fix since
+the code is not modular system so if you shooting mechanic breaks there no one shooting script
+you could look at by itself making it more difficult to work with.
